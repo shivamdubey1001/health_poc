@@ -1,0 +1,6 @@
+import { FileText, MessageSquareText } from 'lucide-react'
+import type { EvidenceItem } from '../types/api'
+export function EvidenceTimeline({items,onOpenTranscript}:{items:EvidenceItem[];onOpenTranscript?:(id:string)=>void}){
+  if(!items.length) return <p className="muted">No supporting evidence available.</p>
+  return <div className="space-y-0">{items.map((e,i)=><div key={`${e.type}-${i}`} className="relative flex gap-4 pb-5 last:pb-0"><div className="flex w-8 shrink-0 justify-center"><div className="z-10 flex h-8 w-8 items-center justify-center rounded-full border border-line bg-white text-brand">{e.type==='CALL_SUMMARY'?<MessageSquareText size={15}/>:<FileText size={15}/>}</div>{i<items.length-1&&<div className="absolute left-[15px] top-8 h-full w-px bg-line"/>}</div><div className="min-w-0 pt-1"><div className="flex flex-wrap items-center gap-2"><span className="text-xs font-semibold text-brand">{e.type.replaceAll('_',' ')}</span>{e.date&&<span className="text-xs text-muted">{new Date(e.date+'T00:00:00').toLocaleDateString()}</span>}</div><p className="mt-1 text-sm leading-6">{e.description}</p>{e.source_id&&onOpenTranscript&&<button className="mt-2 text-xs font-semibold text-brand hover:underline" onClick={()=>onOpenTranscript(e.source_id!)}>View source transcript</button>}</div></div>)}</div>
+}

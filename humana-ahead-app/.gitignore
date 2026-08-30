@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+backend/venv/
+backend/.env
+backend/humana_ahead.db
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+.DS_Store
+.env

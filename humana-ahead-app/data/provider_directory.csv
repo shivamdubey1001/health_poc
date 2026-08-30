@@ -1,0 +1,91 @@
+provider_id,provider_type,provider_name,organization_name,specialty,city,state,zip3,accepting_new_patients,source_system
+PRV0001,PRACTITIONER,Dr. Maya Chen,Summit Orthopedic Group,Orthopedic Surgery,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0002,PRACTITIONER,Dr. Aaron Patel,Newark Orthopedic Group,Orthopedic Surgery,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0003,PRACTITIONER,Dr. Elena Rossi,Jersey City Orthopedic Group,Orthopedic Surgery,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0004,PRACTITIONER,Dr. Daniel Kim,Morristown Orthopedic Group,Orthopedic Surgery,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0005,PRACTITIONER,Dr. Priya Shah,Hackensack Orthopedic Group,Orthopedic Surgery,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0006,PRACTITIONER,Dr. Michael Green,Montclair Orthopedic Group,Orthopedic Surgery,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0007,PRACTITIONER,Dr. Laura Adams,Paramus Orthopedic Group,Orthopedic Surgery,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0008,PRACTITIONER,Dr. Samuel Lee,Edison Orthopedic Group,Orthopedic Surgery,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0009,PRACTITIONER,Dr. Nina Brooks,Summit Orthopedic Group,Orthopedic Surgery,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0010,PRACTITIONER,Dr. Thomas Reed,Newark Orthopedic Group,Orthopedic Surgery,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0011,PRACTITIONER,Dr. Sofia Martin,Jersey City Orthopedic Group,Orthopedic Surgery,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0012,PRACTITIONER,Dr. Kevin Clark,Morristown Orthopedic Group,Orthopedic Surgery,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0013,PRACTITIONER,Dr. Alice Morgan,Jersey City Eye Associates,Ophthalmology,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0014,PRACTITIONER,Dr. Ryan Park,Morristown Eye Associates,Ophthalmology,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0015,PRACTITIONER,Dr. Grace Liu,Hackensack Eye Associates,Ophthalmology,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0016,PRACTITIONER,Dr. Omar Hassan,Montclair Eye Associates,Ophthalmology,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0017,PRACTITIONER,Dr. Emily Stone,Paramus Eye Associates,Ophthalmology,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0018,PRACTITIONER,Dr. Victor Cruz,Edison Eye Associates,Ophthalmology,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0019,PRACTITIONER,Dr. Primary 1,Newark Primary Care,Primary Care,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0020,PRACTITIONER,Dr. Primary 2,Jersey City Primary Care,Primary Care,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0021,PRACTITIONER,Dr. Primary 3,Morristown Primary Care,Primary Care,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0022,PRACTITIONER,Dr. Primary 4,Hackensack Primary Care,Primary Care,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0023,PRACTITIONER,Dr. Primary 5,Montclair Primary Care,Primary Care,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0024,PRACTITIONER,Dr. Primary 6,Paramus Primary Care,Primary Care,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0025,PRACTITIONER,Dr. Primary 7,Edison Primary Care,Primary Care,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0026,PRACTITIONER,Dr. Primary 8,Summit Primary Care,Primary Care,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0027,PRACTITIONER,Dr. Primary 9,Newark Primary Care,Primary Care,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0028,PRACTITIONER,Dr. Primary 10,Jersey City Primary Care,Primary Care,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0029,PRACTITIONER,Dr. Primary 11,Morristown Primary Care,Primary Care,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0030,PRACTITIONER,Dr. Primary 12,Hackensack Primary Care,Primary Care,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0031,PRACTITIONER,Dr. Primary 13,Montclair Primary Care,Primary Care,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0032,PRACTITIONER,Dr. Primary 14,Paramus Primary Care,Primary Care,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0033,PRACTITIONER,Dr. Primary 15,Edison Primary Care,Primary Care,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0034,PRACTITIONER,Dr. Primary 16,Summit Primary Care,Primary Care,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0035,PRACTITIONER,Dr. Primary 17,Newark Primary Care,Primary Care,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0036,PRACTITIONER,Dr. Primary 18,Jersey City Primary Care,Primary Care,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0037,PRACTITIONER,Dr. Primary 19,Morristown Primary Care,Primary Care,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0038,PRACTITIONER,Dr. Primary 20,Hackensack Primary Care,Primary Care,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0039,ORGANIZATION,Morristown Imaging 1,Morristown Imaging 1,Radiology,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0040,ORGANIZATION,Hackensack Imaging 2,Hackensack Imaging 2,Radiology,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0041,ORGANIZATION,Montclair Imaging 3,Montclair Imaging 3,Radiology,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0042,ORGANIZATION,Paramus Imaging 4,Paramus Imaging 4,Radiology,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0043,ORGANIZATION,Edison Imaging 5,Edison Imaging 5,Radiology,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0044,ORGANIZATION,Summit Imaging 6,Summit Imaging 6,Radiology,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0045,ORGANIZATION,Newark Imaging 7,Newark Imaging 7,Radiology,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0046,ORGANIZATION,Jersey City Imaging 8,Jersey City Imaging 8,Radiology,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0047,ORGANIZATION,Hackensack PT Center 1,Hackensack PT Center 1,Physical Therapy,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0048,ORGANIZATION,Montclair PT Center 2,Montclair PT Center 2,Physical Therapy,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0049,ORGANIZATION,Paramus PT Center 3,Paramus PT Center 3,Physical Therapy,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0050,ORGANIZATION,Edison PT Center 4,Edison PT Center 4,Physical Therapy,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0051,ORGANIZATION,Summit PT Center 5,Summit PT Center 5,Physical Therapy,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0052,ORGANIZATION,Newark PT Center 6,Newark PT Center 6,Physical Therapy,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0053,ORGANIZATION,Jersey City PT Center 7,Jersey City PT Center 7,Physical Therapy,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0054,ORGANIZATION,Morristown PT Center 8,Morristown PT Center 8,Physical Therapy,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0055,ORGANIZATION,Hackensack PT Center 9,Hackensack PT Center 9,Physical Therapy,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0056,ORGANIZATION,Montclair PT Center 10,Montclair PT Center 10,Physical Therapy,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0057,FACILITY,North Valley Medical Center,North Valley Medical Center,Hospital / Surgical Facility,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0058,FACILITY,Riverside Hospital,Riverside Hospital,Hospital / Surgical Facility,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0059,FACILITY,Summit Surgical Center,Summit Surgical Center,Hospital / Surgical Facility,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0060,FACILITY,Garden State Medical Center,Garden State Medical Center,Hospital / Surgical Facility,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0061,FACILITY,Liberty Ambulatory Surgery Center,Liberty Ambulatory Surgery Center,Hospital / Surgical Facility,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0062,FACILITY,MetroCare Hospital,MetroCare Hospital,Hospital / Surgical Facility,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0063,FACILITY,Evergreen Medical Center,Evergreen Medical Center,Hospital / Surgical Facility,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0064,FACILITY,Harbor Surgical Pavilion,Harbor Surgical Pavilion,Hospital / Surgical Facility,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0065,FACILITY,Pioneer Hospital,Pioneer Hospital,Hospital / Surgical Facility,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0066,FACILITY,Crescent Medical Center,Crescent Medical Center,Hospital / Surgical Facility,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0067,PRACTITIONER,Dr. Cardiology 1,Summit Cardiology Associates,Cardiology,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0068,PRACTITIONER,Dr. Cardiology 2,Montclair Cardiology Associates,Cardiology,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0069,PRACTITIONER,Dr. Cardiology 3,Morristown Cardiology Associates,Cardiology,Morristown,NJ,079,True,PROVIDER_DIRECTORY
+PRV0070,PRACTITIONER,Dr. Cardiology 4,Summit Cardiology Associates,Cardiology,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0071,PRACTITIONER,Dr. Cardiology 5,Hackensack Cardiology Associates,Cardiology,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0072,PRACTITIONER,Dr. Cardiology 6,Jersey City Cardiology Associates,Cardiology,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0073,PRACTITIONER,Dr. Cardiology 7,Newark Cardiology Associates,Cardiology,Newark,NJ,071,True,PROVIDER_DIRECTORY
+PRV0074,PRACTITIONER,Dr. Cardiology 8,Hackensack Cardiology Associates,Cardiology,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0075,PRACTITIONER,Dr. Gastroenterology 1,Hackensack Gastroenterology Associates,Gastroenterology,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0076,PRACTITIONER,Dr. Gastroenterology 2,Montclair Gastroenterology Associates,Gastroenterology,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0077,PRACTITIONER,Dr. Gastroenterology 3,Montclair Gastroenterology Associates,Gastroenterology,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0078,PRACTITIONER,Dr. Gastroenterology 4,Summit Gastroenterology Associates,Gastroenterology,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0079,PRACTITIONER,Dr. Gastroenterology 5,Montclair Gastroenterology Associates,Gastroenterology,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0080,PRACTITIONER,Dr. Gastroenterology 6,Paramus Gastroenterology Associates,Gastroenterology,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0081,PRACTITIONER,Dr. Dermatology 1,Paramus Dermatology Associates,Dermatology,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0082,PRACTITIONER,Dr. Dermatology 2,Jersey City Dermatology Associates,Dermatology,Jersey City,NJ,073,True,PROVIDER_DIRECTORY
+PRV0083,PRACTITIONER,Dr. Dermatology 3,Summit Dermatology Associates,Dermatology,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0084,PRACTITIONER,Dr. Dermatology 4,Paramus Dermatology Associates,Dermatology,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0085,PRACTITIONER,Dr. Dermatology 5,Montclair Dermatology Associates,Dermatology,Montclair,NJ,070,True,PROVIDER_DIRECTORY
+PRV0086,PRACTITIONER,Dr. Neurology 1,Edison Neurology Associates,Neurology,Edison,NJ,088,True,PROVIDER_DIRECTORY
+PRV0087,PRACTITIONER,Dr. Neurology 2,Hackensack Neurology Associates,Neurology,Hackensack,NJ,076,True,PROVIDER_DIRECTORY
+PRV0088,PRACTITIONER,Dr. Neurology 3,Summit Neurology Associates,Neurology,Summit,NJ,079,True,PROVIDER_DIRECTORY
+PRV0089,PRACTITIONER,Dr. Neurology 4,Paramus Neurology Associates,Neurology,Paramus,NJ,076,True,PROVIDER_DIRECTORY
+PRV0090,PRACTITIONER,Dr. Neurology 5,Jersey City Neurology Associates,Neurology,Jersey City,NJ,073,True,PROVIDER_DIRECTORY

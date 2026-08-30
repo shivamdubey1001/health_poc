@@ -1,0 +1,4 @@
+plan_id,plan_name,plan_type,benefit_year,network_model,service_area,monthly_plan_premium,medical_deductible,in_network_max_out_of_pocket,combined_max_out_of_pocket,specialist_referral_default,pcp_required,source_system
+SYN-MA-HMO-01,Synthetic Medicare Advantage HMO,MA_HMO,2026,HMO,Synthetic NJ Metro,35.0,350.0,4700.0,,CONDITIONAL,True,PLAN_ADMINISTRATION
+SYN-MA-PPO-02,Synthetic Medicare Advantage PPO,MA_PPO,2026,PPO,Synthetic NJ Metro,64.0,500.0,6100.0,9800.0,NOT_REQUIRED,False,PLAN_ADMINISTRATION
+SYN-DSNP-03,Synthetic Dual-Eligible Special Needs Plan,DSNP,2026,HMO,Synthetic NJ Metro,0.0,0.0,3600.0,,CONDITIONAL,True,PLAN_ADMINISTRATION

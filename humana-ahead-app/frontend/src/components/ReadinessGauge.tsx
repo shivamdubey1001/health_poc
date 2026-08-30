@@ -1,0 +1,4 @@
+export function ReadinessGauge({score,label}:{score:number;label:string}){
+  const radius=44, c=2*Math.PI*radius, offset=c-(score/100)*c
+  return <div className="flex items-center gap-5"><svg viewBox="0 0 110 110" className="h-28 w-28" aria-label={`Readiness ${score}%`}><circle cx="55" cy="55" r={radius} fill="none" stroke="#e2e8f0" strokeWidth="10"/><circle cx="55" cy="55" r={radius} fill="none" stroke="#0f6c78" strokeWidth="10" strokeLinecap="round" strokeDasharray={c} strokeDashoffset={offset} transform="rotate(-90 55 55)"/><text x="55" y="60" textAnchor="middle" fontSize="22" fontWeight="700" fill="#0f172a">{score}%</text></svg><div><p className="eyebrow">Administrative readiness</p><p className="mt-1 text-lg font-semibold">{label}</p><p className="mt-1 text-sm text-muted">Transparent rule-based score. AI prioritizes what to address next.</p></div></div>
+}

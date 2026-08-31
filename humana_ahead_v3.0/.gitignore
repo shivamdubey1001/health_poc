@@ -1,0 +1,24 @@
+# Secrets - never commit
+backend/.env
+frontend/.env
+.env
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Database (regenerated from data/ on first run)
+backend/*.db
+backend/*.db-wal
+backend/*.db-shm
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Archives
+*.7z
+*.tar
+*.tar.gz
